@@ -1,2 +1,2 @@
 # devops-assignment
-Practice assignement
+Practice assignement.
